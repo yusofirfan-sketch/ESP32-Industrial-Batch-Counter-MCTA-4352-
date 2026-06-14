@@ -1,3 +1,4 @@
+
 # Industrial Batch Counter System using ESP32
 
 An automated industrial-grade item counting system engineered to minimize human counting errors and optimize production batch management. 
@@ -16,3 +17,11 @@ An automated industrial-grade item counting system engineered to minimize human 
 
 ## ⚠️ LabVIEW Integration Note
 The original system structure intended to pull live data streams via the **NI-VISA Resource Library** for HMI monitoring. However, live software integration faced a connection barrier due to an **NI-VISA Driver port corruption** caused by **Ground Loop & AC Ripple Noise** from an unisolated laptop charger during live tests. The hardware remains 100% operational via the native UART Serial Monitor (115200 baud).
+
+
+https://github.com/user-attachments/assets/7769566f-6b12-4eda-87d4-de0be92c9360
+
+
+
+https://github.com/user-attachments/assets/9e9c4f39-0e26-4697-9949-71e7556f41b1
+
